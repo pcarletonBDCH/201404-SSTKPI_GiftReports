@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="201404_SSTKPI_GiftReports_Datasource">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=infosphere;Initial Catalog=Companion</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source 201404_SSTKPI_GiftReports_Datasource</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>91586e92-2f85-4abd-9b30-5fe2a7e0f9d8</DataSourceID>
+</RptDataSource>
